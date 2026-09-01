@@ -137,7 +137,7 @@
   .process{background:var(--deep);color:var(--paper);}
   .process .section-head p{color:#A9ACC4;}
   .process .section-head .eyebrow{color:#C9A227;}
-  .process .section-head h2{color:var(--accent);}
+  .process .section-head h2{color:var(--accent);text-transform:uppercase;}
   .process-item{
     display:flex;gap:28px;padding:28px 0;
     border-bottom:1px solid rgba(255,255,255,0.12);
