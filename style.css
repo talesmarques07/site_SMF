@@ -72,15 +72,15 @@
     position:absolute;
     inset:0;
     margin:auto;
-    width:90%;
+    width:80%;
     max-width:900px;
-    height:90%;
+    height:80%;
     object-fit:contain;
     opacity:0.12;
     pointer-events:none;
     user-select:none;
     z-index:0;
-}
+  }
   .hero-inner{max-width:1120px;margin:0 auto;position:relative;z-index:1;}
   .eyebrow{
     font-family:'JetBrains Mono',monospace;font-size:13px;
